@@ -1,5 +1,7 @@
 # WebCheck
 
+[![Build Status](https://travis-ci.org/kochie/webcheck.svg?branch=master)](https://travis-ci.org/kochie/webcheck)
+
 WebCheck is a Go library for validating common resources found on the internet such as IP Addresses, URLs, and Email Addresses.
 
 Documentation is [here](https://godoc.org/github.com/kochie/webcheck)
